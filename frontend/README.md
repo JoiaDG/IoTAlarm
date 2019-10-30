@@ -1,11 +1,11 @@
 # Frontend
 ## Herramientas de Trabajo
-Trabajaremos en React
-Utilizaremos el framework NextJs
-De estilo utilizaremos bootstrap
+1. Trabajaremos en React
+2. Utilizaremos el framework NextJs
+3. De estilo utilizaremos bootstrap
 
 ## Colaboradores de Front-end
--Héctor Manuel Ruvalcaba Pizano 
--Graciela Jazmin Chávez Flores
--Pedro Mauricio Godinez Ortiz
--José Joiarib Díaz García.
+- Héctor Manuel Ruvalcaba Pizano 
+- Graciela Jazmin Chávez Flores
+- Pedro Mauricio Godinez Ortiz
+- José Joiarib Díaz García.
